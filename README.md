@@ -1,2 +1,2 @@
 # fb_clone-_website
-I made this Facebook clone .
+  This is a Facebook clone website .I made it durring my Git tutorial 
